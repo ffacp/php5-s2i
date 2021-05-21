@@ -1,1 +1,1 @@
-# php5-s2i
+S2I Image for OpenShift with PHP 5.5
